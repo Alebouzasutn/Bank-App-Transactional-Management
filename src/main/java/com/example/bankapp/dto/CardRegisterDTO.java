@@ -18,4 +18,4 @@ import lombok.Data;
         @NotNull
         private Integer expirationYear;
     }
-}
+

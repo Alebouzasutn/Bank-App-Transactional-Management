@@ -1,11 +1,11 @@
 package com.example.bankapp.service;
 
-import com.bankapp.dto.CardRegisterDTO;
-import com.bankapp.dto.CardResponseDTO;
-import com.bankapp.entity.Card;
-import com.bankapp.entity.User;
-import com.bankapp.repository.CardRepository;
-import com.bankapp.repository.UserRepository;
+import com.example.bankapp.dto.CardRegisterDTO;
+import com.example.bankapp.dto.CardResponseDTO;
+import com.example.bankapp.entity.Card;
+import com.example.bankapp.entity.User;
+import com.example.bankapp.repository.CardRepository;
+import com.example.bankapp.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

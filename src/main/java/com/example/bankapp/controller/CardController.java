@@ -1,8 +1,8 @@
 package com.example.bankapp.controller;
 
-import com.bankapp.dto.CardRegisterDTO;
-import com.bankapp.dto.CardResponseDTO;
-import com.bankapp.service.CardService;
+import com.example.bankapp.dto.CardRegisterDTO;
+import com.example.bankapp.dto.CardResponseDTO;
+import com.example.bankapp.service.CardService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.Authentication;
