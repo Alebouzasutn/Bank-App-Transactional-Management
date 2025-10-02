@@ -94,7 +94,7 @@ mvn spring-boot:run
 
 Probar con Postman o curl
 
-📌 BankApp – Banking Application with Spring Boot
+📌 **BankApp – Banking Application with Spring Boot**
 📖 Description
 
 BankApp is a sample banking application built with Java 17, Spring Boot 3, Spring Security with JWT, and MySQL.
